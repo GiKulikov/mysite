@@ -16,7 +16,6 @@ body{
 .container{
     display: flex;
     flex-direction: column;
-    width: 1650px;
 }
 .header{
     width: 100%;
